@@ -1,0 +1,46 @@
+body{
+    background-color: lightgoldenrodyellow;
+    padding-top: 40px;
+}
+#nav-bar{
+ color:green;
+ float: right;
+ padding-top: 20px;
+ position: fixed;
+}
+#hero{
+    text-align: center;
+    font-weight: 200px;
+}
+#features{
+    text-align: center;
+    color: chocolate;
+}
+#submit{
+    margin-top: 20px;
+}
+.container1{
+    background-color: lightpink;
+    display: inline-block;
+    width: 30%;
+}
+.container2{
+    background-color: lightskyblue;
+    display: inline-block;
+    width: 30%;
+}
+.container3{
+    background-color: lightsalmon;
+    display: inline-block;
+    width: 30%;
+}
+.footer{
+    text-align: center;
+}
+hr{
+    width: 80%;
+}
+.hand{
+    font-size: 50px;
+    color: chocolate;
+}
